@@ -1,3 +1,5 @@
-# book_about_bayes
+# Понятная(ый) толи конспект, толи виньетка, толи книжка по Байесовским методам.
 
-Толи книга толи виньетка о байесовских методах, написаная на простом языке ==^--^==
+[Текущая версия](https://github.com/FUlyankin/bayes_book/raw/master/main_bayes_file.pdf)
+
+Пожелания и замечания можно оставить на [github-issues.](https://github.com/FUlyankin/bayes_book/issues)
