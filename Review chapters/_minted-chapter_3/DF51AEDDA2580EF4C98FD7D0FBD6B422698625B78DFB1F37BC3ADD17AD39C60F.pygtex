@@ -1,7 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{k+kn}{library}\PYG{p}{(}ggplot2\PYG{p}{)}
-x \PYG{o}{\PYGZlt{}\PYGZhy{}} \PYG{k+kp}{seq}\PYG{p}{(}\PYG{l+m}{0}\PYG{p}{,}\PYG{l+m}{1}\PYG{p}{,}by \PYG{o}{=} \PYG{l+m}{0.001}\PYG{p}{)}
-y1 \PYG{o}{=} dbeta\PYG{p}{(}x\PYG{p}{,}\PYG{l+m}{10}\PYG{p}{,}\PYG{l+m}{2}\PYG{p}{)}
-y2 \PYG{o}{=} dbeta\PYG{p}{(}x\PYG{p}{,}\PYG{l+m}{2}\PYG{p}{,}\PYG{l+m}{10}\PYG{p}{)}
-qplot\PYG{p}{(}x\PYG{p}{,}y1\PYG{o}{+}y2\PYG{p}{,}geom\PYG{o}{=}\PYG{l+s}{\PYGZsq{}line\PYGZsq{}}\PYG{p}{)}
-\end{Verbatim}
