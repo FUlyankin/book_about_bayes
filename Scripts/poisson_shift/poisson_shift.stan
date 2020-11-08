@@ -9,7 +9,7 @@ parameters{
 }
 model{
   // априорно:
-  tau ~ uniform(0, 70); 
+  tau ~ uniform(1, 70); 
   lambda1 ~ exponential(0.05);
   lambda2 ~ exponential(0.05);
   // модель: как наблюдения связаны с параметром
